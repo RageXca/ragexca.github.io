@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caddyv2 on </title>
+    <link>//localhost:1313/tags/caddyv2/</link>
+    <description>Recent content in Caddyv2 on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/caddyv2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix de mars</title>
+      <link>//localhost:1313/posts/2024/2024-03-01-fix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024/2024-03-01-fix/</guid>
+      <description>L&amp;rsquo;actuel La période pénible des impôts.&#xA;Vu certaine limitation de unraid AMP control panel sera ajouté a un autre serveur héberger sur un mini-pc i5 8ième génération.&#xA;Serveur Ajout de Immich a la liste de docker pour les images.&#xA;Ajout StirlingPDF pour modification tout genre de fichier PDF.&#xA;L&amp;rsquo;ajout de plugin a visual-studio server pour l&amp;rsquo;envoi automatisé des modification web a mon hébergeur.&#xA;CaddyV2 Après quelques optimisation essai et erreur vue a unraid j&amp;rsquo;ai finalement réussi a regrouper CaddyV2 avec php pour l&amp;rsquo;utilisation de php-fpm.</description>
+    </item>
+  </channel>
+</rss>

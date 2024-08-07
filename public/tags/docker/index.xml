@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on </title>
+    <link>//localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 07:07:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VPN</title>
+      <link>//localhost:1313/posts/vpn/</link>
+      <pubDate>Wed, 22 Jun 2022 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/vpn/</guid>
+      <description>Docker compose file In my case using portainer and deploying a stack but can be run with docker-compose also&#xA;Compose file: version: &amp;#39;2.1&amp;#39; services: transmission-openvpn: volumes: - /files/1/btclient:/data - /etc/localtime:/etc/localtime:ro environment: - PUID=1000 - PGID=1000 - CREATE_TUN_DEVICE=true - OPENVPN_PROVIDER=NORDVPN # - OPENVPN_CONFIG=default - NORDVPN_COUNTRY=US - NORDVPN_CATEGORY=legacy_p2p - NORDVPN_PROTOCOL=udp - OPENVPN_USERNAME=changeme - OPENVPN_PASSWORD=changeme - OPENVPN_OPTS=--inactive 3600 --ping 10 --ping-exit 60 - WEBPROXY_ENABLED=false # Change local network to lan ip settings - LOCAL_NETWORK=192.</description>
+    </item>
+  </channel>
+</rss>

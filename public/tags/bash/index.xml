@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on </title>
+    <link>//localhost:1313/tags/bash/</link>
+    <description>Recent content in Bash on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 07:07:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pihole Unbound</title>
+      <link>//localhost:1313/posts/start/</link>
+      <pubDate>Wed, 22 Jun 2022 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/start/</guid>
+      <description>Pi-Hole First update the distro&#xA;sudo apt update sudo apt upgrade Run pihole install script&#xA;curl -sSL https://install.pi-hole.net | sudo bash Setup is quite easy after its done change it&amp;rsquo;s password&#xA;pihole -a -p Change Lighttpd port to avoid conflicts with nginx proxy manager&#xA;service lighttpd status sudo pico /etc/lighttpd/external.conf Paste this inside empty file&#xA;server.port := anyportnumberyouwant sudo /etc/init.d/lighttpd restart Pihole is setup now let&amp;rsquo;s get started with Unbound</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on </title>
+    <link>//localhost:1313/tags/news/</link>
+    <description>Recent content in News on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Destruction de mon Wordpress</title>
+      <link>//localhost:1313/posts/2023/2023-11-13-destruction-wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-13-destruction-wordpress/</guid>
+      <description>Jekyll Pourquoi le switch a Jekyll?&#xA;C&amp;rsquo;est différent wordpress la majorité des plugins populaire sont rendu avec option payante wordpress etait rendus vraiment lent même sur un fresh install avec leur &amp;ldquo;optimisation&amp;rdquo; Quessé sa change? Pour toi rien? Des liens brisé car j&amp;rsquo;ai oublié d&amp;rsquo;uploader les assets pis c&amp;rsquo;est pas mal sa!&#xA;Fail J&amp;rsquo;ai aucunement procédé a une backup des articles wordpress que j&amp;rsquo;avais ainsi que les pages et nombreuses histoires depuis 2011 donc tout ceci est maintenant disparu a jamais.</description>
+    </item>
+  </channel>
+</rss>

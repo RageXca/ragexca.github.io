@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Fin Novembre</title>
+      <link>//localhost:1313/posts/2023/2023-11-20-journal-fin-novembre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-20-journal-fin-novembre/</guid>
+      <description>Novembre 2023 L&amp;rsquo;actuel Page des coffres caché de Mario RPG version 3D. ( Aucune véritable utilité je veux dire la majorité des walkthrought internet sont beaucoup plus complet). Terminé Mario RPG remake ( Certaine lenteur des dernières patch Ryujinx sur la steamdeck m&amp;rsquo;ont fait prendre une pause actuel jeux a 70% ). Regroupement de documentation pour Authelia/Authentik et autres du même type pour une décision final dans mon déploiement homelab. Travailler sur Visual studio expérimenter avec la version serveur et les plugins.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on </title>
+    <link>//localhost:1313/series/games/</link>
+    <description>Recent content in Games on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 07:07:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/series/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IRO has issues</title>
+      <link>//localhost:1313/posts/2023/2023-11-13-iro-took-many-fix/</link>
+      <pubDate>Mon, 13 Nov 2023 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-13-iro-took-many-fix/</guid>
+      <description>iRO for those that don&amp;rsquo;t know Ragnarok Online a old game that started in earlys 2000&amp;rsquo;s. It was one of my favorite games including Eve-Online ,Diablo 2, Starcraft and some others (im only including those with 10k+ hours of gameplay)&#xA;Why Now? I honnestly never played renewal and decided to try official server now that they fixed the bot issues. ( Ever since they added EAC and remade part of the clien OpenmKore doesn&amp;rsquo;t work anymore on their servers ) It still won&amp;rsquo;t fix the paytowin aspect of the official client but i told myself why not?</description>
+    </item>
+  </channel>
+</rss>

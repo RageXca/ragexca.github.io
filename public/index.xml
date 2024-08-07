@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix de mars</title>
+      <link>//localhost:1313/posts/2024/2024-03-01-fix/</link>
+      <pubDate>Fri, 01 Mar 2024 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2024/2024-03-01-fix/</guid>
+      <description>L&amp;rsquo;actuel La période pénible des impôts.&#xA;Vu certaine limitation de unraid AMP control panel sera ajouté a un autre serveur héberger sur un mini-pc i5 8ième génération.&#xA;Serveur Ajout de Immich a la liste de docker pour les images.&#xA;Ajout StirlingPDF pour modification tout genre de fichier PDF.&#xA;L&amp;rsquo;ajout de plugin a visual-studio server pour l&amp;rsquo;envoi automatisé des modification web a mon hébergeur.&#xA;CaddyV2 Après quelques optimisation essai et erreur vue a unraid j&amp;rsquo;ai finalement réussi a regrouper CaddyV2 avec php pour l&amp;rsquo;utilisation de php-fpm.</description>
+    </item>
+    <item>
+      <title>Journal début décembre</title>
+      <link>//localhost:1313/posts/2023/2023-12-9-journal-debut-decembre./</link>
+      <pubDate>Sat, 09 Dec 2023 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-12-9-journal-debut-decembre./</guid>
+      <description>Décembre 2023 Gaming Facts Mario RPG remake sans éviter aucune bataille en complètant plusieurs sidequest et secrets 12h40min. La diffilcultée est beaucoup plus facile que l&amp;rsquo;original les raisons étant.&#xA;Négation complète de plusieurs attaques possible. Triple skills et buff Frog coin disponible sur plusieurs monstre et peuvent être farmé dans des zones de début. Le autosave feature a chaque zone. L&amp;rsquo;actuel Préparation bois pour déplacement serveur. Expérimenter avec InfluxDB Expérimenter avec MongoDB ( .</description>
+    </item>
+    <item>
+      <title>Journal Fin Novembre</title>
+      <link>//localhost:1313/posts/2023/2023-11-20-journal-fin-novembre/</link>
+      <pubDate>Mon, 20 Nov 2023 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-20-journal-fin-novembre/</guid>
+      <description>Novembre 2023 L&amp;rsquo;actuel Page des coffres caché de Mario RPG version 3D. ( Aucune véritable utilité je veux dire la majorité des walkthrought internet sont beaucoup plus complet). Terminé Mario RPG remake ( Certaine lenteur des dernières patch Ryujinx sur la steamdeck m&amp;rsquo;ont fait prendre une pause actuel jeux a 70% ). Regroupement de documentation pour Authelia/Authentik et autres du même type pour une décision final dans mon déploiement homelab. Travailler sur Visual studio expérimenter avec la version serveur et les plugins.</description>
+    </item>
+    <item>
+      <title>IRO has issues</title>
+      <link>//localhost:1313/posts/2023/2023-11-13-iro-took-many-fix/</link>
+      <pubDate>Mon, 13 Nov 2023 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-13-iro-took-many-fix/</guid>
+      <description>iRO for those that don&amp;rsquo;t know Ragnarok Online a old game that started in earlys 2000&amp;rsquo;s. It was one of my favorite games including Eve-Online ,Diablo 2, Starcraft and some others (im only including those with 10k+ hours of gameplay)&#xA;Why Now? I honnestly never played renewal and decided to try official server now that they fixed the bot issues. ( Ever since they added EAC and remade part of the clien OpenmKore doesn&amp;rsquo;t work anymore on their servers ) It still won&amp;rsquo;t fix the paytowin aspect of the official client but i told myself why not?</description>
+    </item>
+    <item>
+      <title>Cheeos</title>
+      <link>//localhost:1313/posts/2023/2023-08-24-cheeos/</link>
+      <pubDate>Thu, 24 Aug 2023 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-08-24-cheeos/</guid>
+      <description>Les citations de Max Pour honorée la sagesse de Max qui nous cite que Cheetos sa pas de &amp;ldquo;T&amp;rdquo; Merci a max pour sa sagesse</description>
+    </item>
+    <item>
+      <title>Pihole Unbound</title>
+      <link>//localhost:1313/posts/2022/2022-06-22-pihole-unbound/</link>
+      <pubDate>Wed, 22 Jun 2022 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2022/2022-06-22-pihole-unbound/</guid>
+      <description>Pi-Hole First update the distro&#xA;sudo apt update sudo apt upgrade Run pihole install script&#xA;curl -sSL https://install.pi-hole.net | sudo bash Setup is quite easy after its done change it&amp;rsquo;s password&#xA;pihole -a -p Change Lighttpd port to avoid conflicts with nginx proxy manager&#xA;service lighttpd status sudo pico /etc/lighttpd/external.conf Paste this inside empty file&#xA;server.port := anyportnumberyouwant sudo /etc/init.d/lighttpd restart Pihole is setup now let&amp;rsquo;s get started with Unbound</description>
+    </item>
+    <item>
+      <title>VPN Stack</title>
+      <link>//localhost:1313/posts/2022/2022-06-22-vpnstack/</link>
+      <pubDate>Wed, 22 Jun 2022 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/2022/2022-06-22-vpnstack/</guid>
+      <description>Docker compose file In my case using portainer and deploying a stack but can be run with docker-compose also&#xA;Compose file: version: &amp;#39;2.1&amp;#39; services: transmission-openvpn: volumes: - /files/1/btclient:/data - /etc/localtime:/etc/localtime:ro environment: - PUID=1000 - PGID=1000 - CREATE_TUN_DEVICE=true - OPENVPN_PROVIDER=NORDVPN # - OPENVPN_CONFIG=default - NORDVPN_COUNTRY=US - NORDVPN_CATEGORY=legacy_p2p - NORDVPN_PROTOCOL=udp - OPENVPN_USERNAME=changeme - OPENVPN_PASSWORD=changeme - OPENVPN_OPTS=--inactive 3600 --ping 10 --ping-exit 60 - WEBPROXY_ENABLED=false # Change local network to lan ip settings - LOCAL_NETWORK=192.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Destruction de mon Wordpress</title>
+      <link>//localhost:1313/posts/2023/2023-11-13-destruction-wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2023/2023-11-13-destruction-wordpress/</guid>
+      <description>Jekyll Pourquoi le switch a Jekyll?&#xA;C&amp;rsquo;est différent wordpress la majorité des plugins populaire sont rendu avec option payante wordpress etait rendus vraiment lent même sur un fresh install avec leur &amp;ldquo;optimisation&amp;rdquo; Quessé sa change? Pour toi rien? Des liens brisé car j&amp;rsquo;ai oublié d&amp;rsquo;uploader les assets pis c&amp;rsquo;est pas mal sa!&#xA;Fail J&amp;rsquo;ai aucunement procédé a une backup des articles wordpress que j&amp;rsquo;avais ainsi que les pages et nombreuses histoires depuis 2011 donc tout ceci est maintenant disparu a jamais.</description>
+    </item>
+  </channel>
+</rss>
