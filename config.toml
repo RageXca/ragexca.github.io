@@ -25,7 +25,7 @@ disqusShortname = "ragexca"
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "A propos", URL = "/about/", HasChildren = false},
-        {Name = "Documentation", URL = "/docs/", HasChildren = false},
+        {Name = "Documentation", URL = "/docs/", HasChildren = true},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
