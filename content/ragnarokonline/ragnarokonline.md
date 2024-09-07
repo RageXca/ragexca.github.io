@@ -154,7 +154,7 @@ The following chances are disputed:
 -   To maximize intimacy gain in a given length of time, pets should be fed the moment they become neutral - although pets get more intimacy per feeding if they are hungry, the time between feedings outweighs this.
 {{< /details >}}
 #### Pet working on Arcadia
-{{< details summary="A Pet Lists >}}
+{{< details summary="A Pet Lists" >}}
 |  Monster             |  Taming Item             |  Food                   |  Accessory                  |  Bonus(es)<br>                                                                   |
 |----------------------|--------------------------|-------------------------|-----------------------------|----------------------------------------------------------------------------------|
 | Alice                | Soft Apron               | White Potion            | None                        |  MDEF+1, Demi Human Resistance +1%<br><br>                                       |
@@ -214,4 +214,5 @@ The following chances are disputed:
 | Mao Guai             | Hocus Pocus              | Flavored Alcohol        | None                        |  None<br><br>                                                                    |
 | Leaf Cat             | Hocus Pocus              | Fish With The Blue Back | None                        |  None<br><br>                                                                    |
 | White Lady           | Hocus Pocus              | Traditional Cookie      | None                        |  None<br><br>                                                                    |
+
 {{< /details >}}
