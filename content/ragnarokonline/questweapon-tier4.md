@@ -5,7 +5,7 @@ draft: false
 tags: [ragnarok-online,mmorpg,helper]
 ---
 
-# Quest : **Level 4 Weapons (Type 1)** 
+## Quest : **Level 4 Weapons (Type 1)** 
 **This quest or instance can be repeated.**
 
 **Requirements**  **Base Level:** : 70
@@ -90,7 +90,7 @@ Ore Drops
 *   [Rose Quartz](http://db.irowiki.org/classic/item-info/7293/) : [Zealotus](http://db.irowiki.org/classic/monster-info/1200/)
 *   [Turquoise](http://db.irowiki.org/classic/item-info/7294/) : [Arc Angeling](http://db.irowiki.org/classic/monster-info/1388/)
 
-# Quest: **Level 4 Weapons (Type 2)** 
+## Quest: **Level 4 Weapons (Type 2)** 
 **This quest or instance can be repeated.**
 
 **Requirements** **Base Level:** : 70
