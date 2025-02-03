@@ -53,3 +53,4 @@ Le tout a faible cout énergétique ( quand la carte vidéo est sur le idle )
 Ce n'est pas pour l'immédiat vu que je ne trouve pas des bifurcateurs 5.0 et qu'une prochaine version de carte mère avec processeur de laptop pourrait bientot faire surface.
 
 Le coût estimer du project 700 CAD pour la carte mère en spécial , 600 CAD pour la ram, 150 CAD pour le boitié. Je possède déjà le GPU/Power Supply/Carte LSI.
+:\
