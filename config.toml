@@ -1,4 +1,4 @@
-baseURL = "https://ragexca.github.io/"
+baseURL = "https://ragex.ca"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
