@@ -1,4 +1,4 @@
-baseURL = "http://ragex.ca/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
