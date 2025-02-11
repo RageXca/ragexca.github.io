@@ -2,7 +2,6 @@
 title: "Ragnarok Online"
 date: 2024-08-30T15:04:46-06:00
 draft: false
-tags: [ragnarok-online,mmorpg,helper,old]
 layout: single
 ---
 # Ragnarok Online
