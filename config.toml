@@ -24,8 +24,8 @@ disqusShortname = "ragexca"
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "A propos", URL = "/about/", HasChildren = false},
         {Name = "Ragnarok", URL = "/ragnarok/", HasChildren = false},
+        {Name = "A propos", URL = "/about/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
