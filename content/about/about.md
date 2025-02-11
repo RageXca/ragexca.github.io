@@ -22,3 +22,4 @@ Ce site est un souvenir d'un époque ou j'étais un bloggeur actif et impliqué.
 Si vous lisez ceci, n'ayer aucune attente et tout ira pour le mieux.
 
 *En souvenir des vieux jours sur deltaanime*
+TEST HUGO
