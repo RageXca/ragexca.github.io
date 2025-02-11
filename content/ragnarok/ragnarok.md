@@ -1,5 +1,5 @@
 ---
-title: "Ragnarok Online"
+title: "Ragnarok"
 date: 2024-08-30T15:04:46-06:00
 draft: false
 layout: single
