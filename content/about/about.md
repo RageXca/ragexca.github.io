@@ -2,7 +2,6 @@
 title: "About"
 date: 2022-11-30T15:04:46-06:00
 draft: false
-layout: single
 ---
 
 ___
@@ -21,5 +20,4 @@ Ce site est un souvenir d'un époque ou j'étais un bloggeur actif et impliqué.
 
 Si vous lisez ceci, n'ayer aucune attente et tout ira pour le mieux.
 
-*En souvenir des vieux jours sur deltaanime*
-TEST HUGO
+*En souvenir des vieux jours sur deltaanime* voyons la suite.

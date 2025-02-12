@@ -1,5 +1,6 @@
 ---
 layout: single
+draft: false
 ---
 # Ragnarok Online
 Those are various information taken from old wikis to help my gaming experience. I take no credit all i did is convert content to markdown and condense it under one page for my own usage.
